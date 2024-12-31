@@ -1,0 +1,2 @@
+ResNet34_yolov1: mAp50:0.521 flops:15.181G params size:23.718M
+ResNet50_yolov1: mAp50:0.533 flops:17.148G params size:26.728M
